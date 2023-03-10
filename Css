@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.topicos{
+ display: flex
+  
+  ;
+}
+img.foto1{
+  height: 23%;
+  width: 30%;
+
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  
+}
+.teste{
+  position: absolute
+}
