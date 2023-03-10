@@ -1,0 +1,54 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Med+</title>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<div class="abap"><img src="Assets/Logo.png" class="foto1">
+<div class="botoes">
+    <button width="80px" heigth="10px" style="background-color: #2079B0;">
+    <p>home</p>
+</button>
+<button width="80px" heigth="10px" style="background-color: #2079B0;">
+    <p>exame</p>
+</button>
+<button width="80px" heigth="10px" style="background-color: #2079B0;">
+    <p>cirugias</p>
+</button>
+
+<!--final div botoes-->
+</div>
+    
+
+
+<!----final da div Abp-->
+</div>
+
+
+
+</body>
+
+
+--------------------------------------------------------------
+Css
+--------------------------------------------------------------
+
+html {
+height: 100%;
+width: 100%;
+}
+.foto1{
+  width: 325px; 
+  height: 120px; 
+}
+.botoes{
+    display: flex;
+}
+
+
+
+
+
